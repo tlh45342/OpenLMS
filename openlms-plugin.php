@@ -2,7 +2,7 @@
   
 /*
  * Plugin Name: Open LMS
- * Description: An Open Leraning Managment System.
+ * Description: An Open Learning Managment System.
  */
 
 // from code snippet
