@@ -5,7 +5,5 @@
  * Description: An Open Leraning Managment System.
  */
 
-// from code snipper
+// from code snippet
 add_filter('show_admin_bar', '__return_false');
-
-</php?>
